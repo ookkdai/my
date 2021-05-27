@@ -33,3 +33,9 @@
 .mw-xl {
   max-width: 1200px;
 }
+div.field_with_errors {
+  display: contents;
+  input {
+    border: 2px solid red;
+  }
+}
