@@ -5,7 +5,7 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
-EMAIL = 'test@example.com'
+EMAIL = 'ookkdai@yahoo.co.jp'
 PASSWORD = 'password'
 
 # テストユーザーが存在しないときだけ作成
